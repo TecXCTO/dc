@@ -19,7 +19,8 @@ Node Collaboration: Individual nodes operate independently but work together, sh
 
 # Key Advantages
 
-Enhanced Security & Privacy: No single point of failure or data concentration, reducing breach risks and offering greater user control.
+Enhanced Security & Privacy: No single point of failure or data concentration, reducing breach risks and offering greater
+user control.
 
 Cost Efficiency: Leverages underutilized hardware, often resulting in lower costs than traditional cloud providers.
 Scalability & Resilience: Elastic capacity and fault tolerance, as the network can easily scale and withstand localized outages.
@@ -36,7 +37,8 @@ Web3 Applications: Powers decentralized apps (dApps) and services.
 
 # Contrast with Centralized Computing
 
-Centralized: Relies on large data centers (e.g., Amazon Web Services, Google Cloud) for all functions, creating potential chokepoints.
+Centralized: Relies on large data centers (e.g., Amazon Web Services, Google Cloud) for all functions, creating potential
+ chokepoints.
 
 Decentralized: Spreads functions across many independent nodes, offering greater distribution and resilience.
 ```
