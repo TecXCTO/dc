@@ -1,7 +1,9 @@
 # DC
 Decentrelised Computing
 ```
-Decentralized computing distributes processing power, storage, and applications across a network of independent nodes (like personal computers or servers) instead of relying on a single central server, using peer-to-peer (P2P) networks and often blockchain for coordination, creating a resilient, private, and cost-effective alternative to traditional centralized cloud models for tasks like AI, data storage, and computation.
+Decentralized computing distributes processing power, storage, and applications across a network of independent nodes (like personal computers or servers) instead of relying on a single central server,
+using peer-to-peer (P2P) networks and often blockchain for coordination, creating a resilient, private, and cost-effective alternative to traditional centralized cloud models for tasks like AI, data storage,
+and computation.
 How it Works
 Distributed Resources: Instead of giant data centers, it pools unused CPU/GPU power and storage from many individual devices, turning them into a global computing network.
 P2P & Blockchain: Resources are exchanged directly between users (peer-to-peer), with blockchain or similar protocols handling coordination, payment, and security via smart contracts.
