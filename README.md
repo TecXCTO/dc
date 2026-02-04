@@ -23,7 +23,9 @@ Enhanced Security & Privacy: No single point of failure or data concentration, r
 user control.
 
 Cost Efficiency: Leverages underutilized hardware, often resulting in lower costs than traditional cloud providers.
-Scalability & Resilience: Elastic capacity and fault tolerance, as the network can easily scale and withstand localized outages.
+
+Scalability & Resilience: Elastic capacity and fault tolerance, as the network can easily scale and withstand localized
+outages.
 
 Reduced Vendor Lock-in: Avoids dependence on single large providers.
 
